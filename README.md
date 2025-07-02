@@ -81,5 +81,3 @@ A referee must:
 * Call `agent.Agent.init(...)` to initialize.
 * Use `agent.Agent.action(...)` to receive the agent’s move.
 * Call `agent.Agent.update(...)` after every move made by either player.
-
----
