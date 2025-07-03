@@ -67,7 +67,7 @@ These tables are generated at runtime and cached for speed, significantly accele
 ### Setup
 
 ```bash
-git clone https://github.com/NemoDeFish/monte-carlo-tree-search.git
+git clone https://github.com/NemoDeFish/monte-carlo-tree-search-agent-tetress
 cd monte-carlo-tree-search
 ```
 
